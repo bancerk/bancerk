@@ -23,8 +23,8 @@ I work with **Java**, **Bash**, and a bit of everything else that sounds interes
 
 📫 **Let's connect!**
 
-- 🐙 [GitHub]([https://github.com/bancerk](https://github.com/bancerk))
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/cbsezen/))
+- 🐙 [GitHub](https://github.com/bancerk)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cbsezen/)
 
 ---
 
