@@ -17,7 +17,7 @@ I work with **Java**, **Bash**, and a bit of everything else that sounds interes
 
 🧰 **Tech toolbox:**
 
-`Java` • `Python` • `PostgreSQL` • `Linux` • `Git` • `VS Code` • `Bash` • `Docker`
+`Java` • `PostgreSQL` • `Linux` • `Git` • `VS Code` • `Bash` • `Docker` • `Helm` • `Jenkins`
 
 ---
 
