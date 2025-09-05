@@ -17,7 +17,7 @@ I work with **Java**, **Bash**, and a bit of everything else that sounds interes
 
 🧰 **Tech toolbox:**
 
-• `Java` • `Spring Boot` • `Maven` • `JDBC` • `Lombok` • `Git` • `Linux` • `Kubernetes` • `PostgreSQL` • `Bash` • `Docker` • `Helm` • `Jenkins` • 
+• `Java` • `Spring Boot` • `Maven` • `JDBC` • `Lombok` • `Git` • `Linux` • `Kubernetes` • `PostgreSQL` • `Bash` • `Docker` •
 
 ---
 
